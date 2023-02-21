@@ -1,6 +1,6 @@
 from math import *
 def laukums_rinkis(r):
-    return pi*(r*2)
+    return pi*(r**2))
 r1=float(input("ievadi pirma rinka radiusu, cm - "))
 r2=float(input("ievadi otra rinka radiusu, cm - "))
 s1=laukums_rinkis(r1)
